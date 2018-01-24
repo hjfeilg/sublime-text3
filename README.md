@@ -3,7 +3,7 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 11,
+	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":
 	[
