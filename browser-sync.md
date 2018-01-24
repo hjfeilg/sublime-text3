@@ -1,5 +1,6 @@
 # browser-sync
 
+![screenshot](BrowserSync你值得拥有的前端同步测试工具.png)
 browser-sync start --server --files "**"
 
 hadoop@report:~/www/WebpackStudyDemo$ browser-sync start --server --files "**"
