@@ -1,5 +1,6 @@
 # sublime-text3
 
+```josn
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"font_face": "YaHei Consolas Hybrid",
@@ -17,3 +18,4 @@
 	"theme": "Default.sublime-theme",
 	"update_check": false
 }
+```
