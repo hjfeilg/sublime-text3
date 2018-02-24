@@ -41,13 +41,13 @@ ___
 - ~~删除文本~~
 
 
-这是行内式链接：[ConnorLin's Blog](http://connorlin.github.io)。
-这是参考式链接：[ConnorLin's Blog][url]，其中url为链接标记，可置于文中任意位置。
-[url]: http://connorlin.github.io/ "ConnorLin's Blog"
-链接标记格式为：[链接标记文本]:  链接地址  链接title(可忽略)
-这是自动链接：直接使用`<>`括起来<http://connorlin.github.io>
-这是图片：![][avatar]
-[avatar]: https://connorlin.github.io/images/avatar.jpg
+这是行内式链接：[ConnorLin's Blog](http://connorlin.github.io)。  
+这是参考式链接：[ConnorLin's Blog][url]，其中url为链接标记，可置于文中任意位置。  
+[url]: http://connorlin.github.io/ "ConnorLin's Blog"  
+链接标记格式为：[链接标记文本]:  链接地址  链接title(可忽略)  
+这是自动链接：直接使用`<>`括起来<http://connorlin.github.io>  
+这是图片：![][avatar]  
+[avatar]: https://connorlin.github.io/images/avatar.jpg  
 
 
 
