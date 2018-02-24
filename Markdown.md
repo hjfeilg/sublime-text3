@@ -48,3 +48,11 @@ ___
 这是自动链接：直接使用`<>`括起来<http://connorlin.github.io>
 这是图片：![][avatar]
 [avatar]: https://connorlin.github.io/images/avatar.jpg
+
+``` java
+// 注意java前面有空格
+protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main);
+}
+```
