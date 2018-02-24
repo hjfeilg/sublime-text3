@@ -31,6 +31,6 @@ ___
 + Blue
 
 ###### 有序
-. Red
-. Green
-. Blue
+1. Red
+2. Green
+3. Blue
